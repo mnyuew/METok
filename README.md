@@ -4,7 +4,7 @@
 
 <h5 align="center"> 
 
-Mengyue Wang,Shuo Chen,Kristian Kersting,Volker Tresp,Yunpu Ma<sup>†</sup>
+Mengyue Wang, Shuo Chen, Kristian Kersting, Volker Tresp, Yunpu Ma<sup>†</sup>
 
 (†) corresponding author
 
