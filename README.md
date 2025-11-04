@@ -68,7 +68,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgment
 
-We extend our gratitude to the open-source efforts of [LLaVA](https://github.com/LLaVA-VL/LLaVA-NeXT)
+We extend our gratitude to the open-source efforts of [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
 
 ## Citation
 
